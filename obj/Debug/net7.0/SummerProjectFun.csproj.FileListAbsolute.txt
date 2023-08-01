@@ -1,0 +1,15 @@
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\bin\Debug\net7.0\SummerProjectFun.exe
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\bin\Debug\net7.0\SummerProjectFun.deps.json
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\bin\Debug\net7.0\SummerProjectFun.runtimeconfig.json
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\bin\Debug\net7.0\SummerProjectFun.dll
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\bin\Debug\net7.0\SummerProjectFun.pdb
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\SummerProjectFun.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\SummerProjectFun.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\SummerProjectFun.AssemblyInfoInputs.cache
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\SummerProjectFun.AssemblyInfo.cs
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\SummerProjectFun.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\SummerProjectFun.dll
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\refint\SummerProjectFun.dll
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\SummerProjectFun.pdb
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\SummerProjectFun.genruntimeconfig.cache
+C:\Users\samue\OneDrive\Skrivebord\SummerProjectFun\obj\Debug\net7.0\ref\SummerProjectFun.dll
